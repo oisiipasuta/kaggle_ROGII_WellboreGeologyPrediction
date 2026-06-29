@@ -1,0 +1,31 @@
+
+# data
+../input/
+input/
+*.zip
+
+# outputs
+*.csv
+*.pkl
+*.joblib
+*.parquet
+*.feather
+*.npy
+*.npz
+*.pth
+*.pt
+*.ckpt
+
+# logs
+logs/
+wandb/
+mlruns/
+
+# cache
+__pycache__/
+.ipynb_checkpoints/
+.cache/
+
+# environment
+.env
+.venv/
